@@ -1,10 +1,10 @@
-.Button {
+.Custom-Button {
     width: 179px;
     height: 52px;
     top: 470px;
     left: 119px;
     gap: 0px;
-    border-radius: 5px ;
+    border-radius: 10px ;
     opacity: 0px;
 
     color: #DEACA3;

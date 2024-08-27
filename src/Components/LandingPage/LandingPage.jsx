@@ -31,7 +31,8 @@ export default function LandingPage() {
                 <h3>Elevating modesty and empowering the hijab</h3>
 
                 <p>It is a long established fact that a reader</p>
-                <Button buttonText={"ShopNow"} />
+                {/* <Button buttonText={"ShopNow"} /> */}
+                <Button text="Shop Now!" backgroundColor="#fff" />
             </div>
 
         </div>

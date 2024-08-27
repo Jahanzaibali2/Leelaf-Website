@@ -1,14 +1,12 @@
 import React from 'react'
 import "./Button.css"
 
-export default function ({buttonText,buttonColor}) {
+export default function Button({ text, backgroundColor }) {
     return (
-        <>
-            <button className='Button' 
-                // style = {{backgroundcolor: {buttonColor}}}
-            >
-                {buttonText}
-            </button>
-        </>
-    )
-}
+      <button className="Custom-Button" 
+      style={{ backgroundColor }}>
+        {text || 'Default Text'}
+      </button>
+    );
+  }
+  
