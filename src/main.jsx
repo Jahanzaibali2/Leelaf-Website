@@ -11,3 +11,5 @@ createRoot(document.getElementById('root')).render(
 
   </StrictMode>,
 )
+
+// https://www.figma.com/design/XVplzUaEU5XnkK7ABLuaoz/Untitled?node-id=0-1&t=vdyxiVr5IFcYbNVt-1 
