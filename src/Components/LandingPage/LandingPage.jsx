@@ -33,6 +33,7 @@ export default function LandingPage() {
                 <p>It is a long established fact that a reader</p>
                 {/* <Button buttonText={"ShopNow"} /> */}
                 <Button text="Shop Now!" backgroundColor="#fff" />
+                {/* <Button text="Shahzaib!" backgroundColor="#000" /> */}
             </div>
 
         </div>

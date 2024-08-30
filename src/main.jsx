@@ -7,8 +7,6 @@ import Button from './Components/Button/Button.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
-    
-
   </StrictMode>,
 )
 
